@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+venv/
+.venv/
+*env/ # Vangt ook temp_env, etc.
+.vscode/ # Optioneel, om VS Code instellingen niet te uploaden
+
+# Als je je data.xlsx niet wilt uploaden:
+data.xlsx
